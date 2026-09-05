@@ -1,0 +1,441 @@
+{
+  "illustrative": true,
+  "bonusRate": 0.1,
+  "bundleDiscount": 0.05,
+  "products": [
+    {
+      "id": "washer",
+      "type": "Стирально-сушильная машина",
+      "model": "LG W4W8LVPKWHM",
+      "brand": "LG",
+      "category": "care",
+      "regular": 7999,
+      "price": 6799,
+      "image": "assets/washer.jpg",
+      "specs": [
+        "Стирка 13 кг / сушка 10 кг",
+        "Инверторный мотор · 1400 об/мин"
+      ],
+      "sourceOrder": 1,
+      "sourceUrl": "https://5element.by/products/w4w8lvpkwhm-stiralno-sushilnaya-mashina-lg",
+      "sourceType": "5element",
+      "fullSpecs": "Тип мотора: Инверторный Вес загрузки белья: 13 кг Скорость отжима до: 1400 об/мин Встроенная сушилка: Да Вес загрузки белья для сушки: 10 кг Обработка паром: Да Количество программ стирки: 8 Глубина: 66 см",
+      "sourceTitle": "Стирально-сушильная машина LG W4W8LVPKWHM"
+    },
+    {
+      "id": "steam",
+      "type": "Пароочиститель",
+      "model": "KARCHER SC 2 EasyFix 1.512-600.0",
+      "brand": "KARCHER",
+      "category": "care",
+      "regular": 999,
+      "price": 749,
+      "image": "assets/steam.jpg",
+      "specs": [
+        "1500 Вт · резервуар 1 л",
+        "Напольный · EasyFix"
+      ],
+      "sourceOrder": 2,
+      "sourceUrl": "https://5element.by/products/794638-paroochistitel-karcher-sc-2-easyfix-1-512-600-0",
+      "sourceType": "5element",
+      "fullSpecs": "Назначение: Пароочиститель Конструктивное исполнение: Напольный Объем резервуара для воды: 1 л Время нагрева воды: 390 с Мощность: 1500 Вт",
+      "sourceTitle": "Пароочиститель Karcher SC 2 EasyFix (1.512-600.0)"
+    },
+    {
+      "id": "iron",
+      "type": "Утюг",
+      "model": "BRAUN SI9661VI",
+      "brand": "BRAUN",
+      "category": "care",
+      "regular": 329,
+      "price": 249,
+      "image": "assets/iron.jpg",
+      "specs": [
+        "3100 Вт · паровой удар 250 г/мин",
+        "Вертикальное отпаривание"
+      ],
+      "sourceOrder": 3,
+      "sourceUrl": "https://5element.by/products/789122-utyug-braun-si-9661-vi",
+      "sourceType": "5element",
+      "fullSpecs": "Максимальная мощность: 3100 Вт Рабочая поверхность: Алюминий Интенсивность парового удара: 250 г/мин Вертикальное отпаривание: Да",
+      "sourceTitle": "Утюг Braun SI 9661 VI"
+    },
+    {
+      "id": "steamer",
+      "type": "Ручной отпариватель",
+      "model": "TEFAL DT7151E1",
+      "brand": "TEFAL",
+      "category": "care",
+      "regular": 349,
+      "price": 269,
+      "image": "assets/steamer.jpg",
+      "specs": [
+        "1400 Вт · подача пара 25 г/мин",
+        "Резервуар 150 мл"
+      ],
+      "sourceOrder": 4,
+      "sourceUrl": "https://5element.by/products/785048-otparivatel-tefal-access-steam-easy-dt7151e1",
+      "sourceType": "5element",
+      "fullSpecs": "Мощность подачи пара: 25 г/мин Объем резервуара для воды: 0.15 л Мощность: 1400 Вт",
+      "sourceTitle": "Отпариватель Tefal Access Steam Easy DT7151E1"
+    },
+    {
+      "id": "robot",
+      "type": "Робот-пылесос",
+      "model": "Narwal Freo Z10 YJCC019",
+      "brand": "Narwal",
+      "category": "care",
+      "regular": 2799,
+      "price": 2199,
+      "image": "assets/robot.jpg",
+      "specs": [
+        "15000 Па · до 210 минут работы",
+        "Влажная уборка · станция"
+      ],
+      "sourceOrder": 5,
+      "sourceUrl": "https://5element.by/products/891407-robot-pylesos-narwal-freo-z10-yjcc019",
+      "sourceType": "5element",
+      "fullSpecs": "Сила всасывания: 15000 Па Уровень шума: 55 дБ Тип влажной уборки: Вращающиеся салфетки (мопы) Системы навигации: Датчик освещения, Датчик распознавания ковров, Датчики перепада высоты, Датчики препятствий, Контактный бампер, Лазерные дальномеры, Лидар Объем пылесборника: 1 л Время автономной работы (max): 210 мин",
+      "sourceTitle": "Робот-пылесос Narwal Freo Z10 YJCC019"
+    },
+    {
+      "id": "tv",
+      "type": "Телевизор",
+      "model": "LG 65QNED83B6A",
+      "brand": "LG",
+      "category": "living",
+      "regular": 5799,
+      "price": 4499,
+      "image": "assets/tv.jpg",
+      "specs": [
+        "Диагональ 65″ · QNED",
+        "Для гостиной"
+      ],
+      "sourceOrder": 6
+    },
+    {
+      "id": "bracket",
+      "type": "Кронштейн для телевизора",
+      "model": "KIVI BASIC-46T",
+      "brand": "KIVI",
+      "category": "living",
+      "regular": 89,
+      "price": 69,
+      "image": "assets/bracket.jpg",
+      "specs": [
+        "Для ТВ 37–80″",
+        "Наклонный · 20 мм от стены"
+      ],
+      "sourceOrder": 7,
+      "sourceUrl": "https://5element.by/products/793157-kronshteyn-kivi-basic-46t",
+      "sourceType": "5element",
+      "fullSpecs": "Назначение: Для телевизора Тип: Наклонный Минимальный размер экрана телевизора: 37 \" Максимальный размер экрана телевизора: 80 \" Угол наклона: от -8 до 0 градусов Угол поворота: Нет градусов Расстояние от стены: 20 мм",
+      "sourceTitle": "Кронштейн KIVI BASIC-46T"
+    },
+    {
+      "id": "fireplace",
+      "type": "Декоративный электрокамин",
+      "model": "RealFlame Beverly-S",
+      "brand": "RealFlame",
+      "category": "living",
+      "regular": 2299,
+      "price": 1799,
+      "image": "assets/fireplace.jpg",
+      "specs": [
+        "Встраиваемый очаг · 100 см",
+        "Декоративный · без обогрева"
+      ],
+      "sourceOrder": 8,
+      "sourceUrl": "https://realflame.ru/catalog/ochagi/beverly-1000/",
+      "sourceType": "manufacturer",
+      "fullSpecs": "Габариты (Ш×В×Г): 1000×300×200 мм; Встраиваемый; Звуковой эффект потрескивания дров; Пульт дистанционного управления; Без обогрева",
+      "sourceTitle": "Электроочаг BEVERLY-S MULTY/БЕВЕРЛИ МУЛЬТИКОЛОР"
+    },
+    {
+      "id": "hairdryer",
+      "type": "Фен",
+      "model": "BaByliss D6555DE",
+      "brand": "BaByliss",
+      "category": "care",
+      "regular": 449,
+      "price": 349,
+      "image": "assets/hairdryer.jpg",
+      "specs": [
+        "1700 Вт · ионизация",
+        "3 скорости · 4 температуры"
+      ],
+      "sourceOrder": 9,
+      "sourceUrl": "https://5element.by/products/872883-fen-babyliss-d6555de",
+      "sourceType": "5element",
+      "fullSpecs": "Мощность: 1700 Вт Тип фена: Стандартный фен Керамический нагревательный элемент: Нет Регулировка воздушного потока: 3 режима Регулировка температуры: 4 режима Ионизация: Да Складная ручка: Нет",
+      "sourceTitle": "Фен BaByliss D6555DE"
+    },
+    {
+      "id": "mixer",
+      "type": "Кухонная машина",
+      "model": "Kenwood KVC85.004SI",
+      "brand": "Kenwood",
+      "category": "small",
+      "regular": 1999,
+      "price": 1599,
+      "image": "assets/mixer.jpg",
+      "specs": [
+        "1200 Вт · 10 скоростей",
+        "Плавная регулировка скорости"
+      ],
+      "sourceOrder": 10,
+      "sourceUrl": "https://5element.by/products/724042-kuhonnaya-mashina-kenwood-titanium-chef-baker-kvc85-004si",
+      "sourceType": "5element",
+      "fullSpecs": "Мощность: 1200 Вт Количество скоростных режимов: 10 Тип: Кухонная машина Плавная регулировка скорости: Да Терка для драников: Нет",
+      "sourceTitle": "Кухонная машина Kenwood Titanium Chef Baker KVC85.004SI"
+    },
+    {
+      "id": "kettle",
+      "type": "Электрочайник",
+      "model": "Tefal KO693110",
+      "brand": "TEFAL",
+      "category": "small",
+      "regular": 279,
+      "price": 209,
+      "image": "assets/kettle.jpg",
+      "specs": [
+        "1,5 л · 1800 Вт",
+        "Терморегулятор · металлическая колба"
+      ],
+      "sourceOrder": 11,
+      "sourceUrl": "https://5element.by/products/712647-elektrochaynik-tefal-ko693110",
+      "sourceType": "5element",
+      "fullSpecs": "Мощность: 1800 Вт Материал корпуса: Металл Объем воды: 1.5 л Материал колбы: Нержавеющая сталь Управление со смартфона: Нет Интеграция в \"Умный дом\": Нет Терморегулятор: Да",
+      "sourceTitle": "Электрочайник Tefal KO693110"
+    },
+    {
+      "id": "coffee",
+      "type": "Кофемашина",
+      "model": "DeLonghi ECAM470.85.MB",
+      "brand": "DeLonghi",
+      "category": "small",
+      "regular": 4799,
+      "price": 3799,
+      "image": "assets/coffee.jpg",
+      "specs": [
+        "19 бар · автоматический капучинатор",
+        "Зерновой и молотый кофе"
+      ],
+      "sourceOrder": 12,
+      "sourceUrl": "https://5element.by/products/kofemashina-delonghi-eletta-ultra-ecam470-85-mb",
+      "sourceType": "5element",
+      "fullSpecs": "Тип используемого кофе: В зернах, Молотый Мощность: 1450 Вт Давление: 19 бар Регулировка степени помола: Да Капучинатор: Автоматический Приготовление двух молочных напитков одновременно: Нет",
+      "sourceTitle": "Кофемашина DeLonghi Eletta Ultra ECAM470.85.MB"
+    },
+    {
+      "id": "airfryer",
+      "type": "Аэрогриль",
+      "model": "TEFAL EY831GE0",
+      "brand": "TEFAL",
+      "category": "small",
+      "regular": 999,
+      "price": 699,
+      "image": "assets/airfryer.jpg",
+      "specs": [
+        "7 л · 2200 Вт",
+        "2 нагревательных элемента"
+      ],
+      "sourceOrder": 13,
+      "sourceUrl": "https://5element.by/products/ey831ge0-aerogril-tefal",
+      "sourceType": "5element",
+      "fullSpecs": "Объем чаш(-и): 7 л Тип: Аэрогриль Общая мощность: 2200 Вт Количество нагревательных элементов: 2 шт Количество чаш: 1 шт",
+      "sourceTitle": "Аэрогриль Tefal Easy Fry Infrared EY831GE0"
+    },
+    {
+      "id": "hood",
+      "type": "Встраиваемая вытяжка",
+      "model": "Midea MH60I970GB",
+      "brand": "Midea",
+      "category": "built",
+      "regular": 1599,
+      "price": 1199,
+      "image": "assets/hood.jpg",
+      "specs": [
+        "1150 м³/ч · ширина 52 см",
+        "Отвод и рециркуляция"
+      ],
+      "sourceOrder": 14,
+      "sourceUrl": "https://5element.by/products/mh60i970gb-vytyazhka-midea",
+      "sourceType": "5element",
+      "fullSpecs": "Производительность: 1150 м3/час Тип: Скрытая Монтаж: Для встраивания Режимы работы: Отвод, Рециркуляция Ширина: 52 см Диаметр воздуховода: 150 мм",
+      "sourceTitle": "Вытяжка Midea MH60I970GB"
+    },
+    {
+      "id": "fridge",
+      "type": "Холодильник",
+      "model": "LG GC-B509QK9M",
+      "brand": "LG",
+      "category": "built",
+      "regular": 4299,
+      "price": 3599,
+      "image": "assets/fridge.jpg",
+      "specs": [
+        "No Frost · инвертор · 387 л",
+        "Высота 203 см · зона свежести"
+      ],
+      "sourceOrder": 15,
+      "sourceUrl": "https://5element.by/products/800484-holodilnik-lg-gc-b509qk9m",
+      "sourceType": "5element",
+      "fullSpecs": "No Frost: Полный Вид компрессора: Инверторный Зона свежести: Да Цвет: Черный Тип управления: Электронное Высота: 203 см Полезный объем: 387 л, 277 л + 110 л",
+      "sourceTitle": "Холодильник LG GC-B509QK9M"
+    },
+    {
+      "id": "dishwasher",
+      "type": "Посудомоечная машина",
+      "model": "LG DB475TXS",
+      "brand": "LG",
+      "category": "built",
+      "regular": 2999,
+      "price": 2399,
+      "image": "assets/dishwasher.jpg",
+      "specs": [
+        "Встраиваемая · автооткрывание двери",
+        "Защита от протечек · луч на полу"
+      ],
+      "sourceOrder": 16,
+      "sourceUrl": "https://5element.by/products/895958-vstraivaemaya-posudomoechnaya-mashina-lg-db475txs",
+      "sourceType": "5element",
+      "fullSpecs": "Тип сушки: Конденсационная Автоматическое открывание двери: Да Защита от протечек: Да Луч на полу: Да",
+      "sourceTitle": "Встраиваемая посудомоечная машина LG DB475TXS"
+    },
+    {
+      "id": "pot",
+      "type": "Кастрюля",
+      "model": "TVS Titan Elite Induction, 20 см",
+      "brand": "TVS",
+      "category": "cookware",
+      "regular": 229,
+      "price": 179,
+      "image": "assets/pot.jpg",
+      "specs": [
+        "20 см · 2,8 л",
+        "Для индукционных плит"
+      ],
+      "sourceOrder": 17,
+      "sourceUrl": "https://5element.by/products/830920-kastryulya-tvs-titan-elite-induction-20-sm",
+      "sourceType": "5element",
+      "fullSpecs": "Тип: Кастрюля Диаметр: 20 см Коллекция: Titan Elite Количество предметов в наборе: 1 Объем: 2.8 л",
+      "sourceTitle": "Кастрюля TVS Titan Elite Induction, 20 см"
+    },
+    {
+      "id": "saucepan",
+      "type": "Ковш",
+      "model": "TVS Titan Elite Induction, 16 см",
+      "brand": "TVS",
+      "category": "cookware",
+      "regular": 179,
+      "price": 129,
+      "image": "assets/saucepan.jpg",
+      "specs": [
+        "16 см · 1,3 л",
+        "Для индукционных плит"
+      ],
+      "sourceOrder": 18,
+      "sourceUrl": "https://5element.by/products/830919-kovsh-tvs-titan-elite-induction-16-sm",
+      "sourceType": "5element",
+      "fullSpecs": "Тип: Ковш Диаметр: 16 см Коллекция: Titan Elite Количество предметов в наборе: 1 Объем: 1.3 л",
+      "sourceTitle": "Ковш TVS Titan Elite Induction, 16 см"
+    },
+    {
+      "id": "hob",
+      "type": "Индукционная варочная панель",
+      "model": "LG HU641PH",
+      "brand": "LG",
+      "category": "built",
+      "regular": 1399,
+      "price": 1099,
+      "image": "assets/hob.jpg",
+      "specs": [
+        "4 зоны нагрева · индукция",
+        "7 кВт · электронное управление"
+      ],
+      "sourceOrder": 19,
+      "sourceUrl": "https://5element.by/products/718993-varochnaya-panel-lg-hu641ph",
+      "sourceType": "5element",
+      "fullSpecs": "Тип нагрева: Индукция Общая мощность: 7 кВт Тип управления: Электронное Зона расширения: Нет Всего конфорок на варочной панели: 4",
+      "sourceTitle": "Варочная панель LG HU641PH"
+    },
+    {
+      "id": "oven",
+      "type": "Встраиваемый духовой шкаф",
+      "model": "LG WSEZM7225B1",
+      "brand": "LG",
+      "category": "built",
+      "regular": 2199,
+      "price": 1699,
+      "image": "assets/oven.jpg",
+      "specs": [
+        "72 л · 12 режимов",
+        "Каталитическая очистка"
+      ],
+      "sourceOrder": 20,
+      "sourceUrl": "https://5element.by/products/718990-duhovoy-shkaf-lg-wsezm7225b1",
+      "sourceType": "5element",
+      "fullSpecs": "Тип духовки: Независимая Объем духовки: 72 л Количество режимов работы духовки: 12 режимов Система очистки: Каталитическая Телескопические направляющие: Да (1 уровень) Тип духового шкафа: Электрический",
+      "sourceTitle": "Духовой шкаф LG WSEZM7225B1"
+    },
+    {
+      "id": "microwave",
+      "type": "Встраиваемая микроволновая печь",
+      "model": "Midea MI10250GB",
+      "brand": "Midea",
+      "category": "built",
+      "regular": 1299,
+      "price": 999,
+      "image": "assets/microwave.jpg",
+      "specs": [
+        "25 л · микроволны 900 Вт",
+        "Гриль · электронное управление"
+      ],
+      "sourceOrder": 21,
+      "sourceUrl": "https://5element.by/products/mi10250gb-vstraivaemaya-mikrovolnovaya-pech-midea",
+      "sourceType": "5element",
+      "fullSpecs": "Исполнение: Встраиваемая Тип: Гриль, Микроволны (Соло) Объем микроволновой печи: 25 л Внутреннее покрытие стенок: Нержавеющая сталь Диаметр тарелки: 315 мм Мощность микроволнового излучателя: 900 Вт Управление: Электронное",
+      "sourceTitle": "Встраиваемая микроволновая печь MIDEA MI10250GB"
+    }
+  ],
+  "bundles": [
+    {
+      "id": "kitchen",
+      "title": "Кухня под ключ",
+      "caption": "Встраиваемая техника в едином стиле",
+      "items": [
+        "oven",
+        "hob",
+        "hood",
+        "dishwasher",
+        "microwave"
+      ],
+      "tag": "5 приборов"
+    },
+    {
+      "id": "home",
+      "title": "Главное для новоселья",
+      "caption": "Крупная техника для повседневного комфорта",
+      "items": [
+        "fridge",
+        "washer",
+        "tv",
+        "robot"
+      ],
+      "tag": "4 прибора"
+    },
+    {
+      "id": "coffee",
+      "title": "Завтрак как в любимом кафе",
+      "caption": "Кофе, выпечка и новые семейные привычки",
+      "items": [
+        "coffee",
+        "mixer",
+        "kettle",
+        "airfryer"
+      ],
+      "tag": "4 прибора"
+    }
+  ]
+}
